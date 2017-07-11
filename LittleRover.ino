@@ -53,7 +53,7 @@ void forward(){
 
 void turn(){
   leftPower.write(90);
-  rightPower.write(45);
+  rightPower.write(135);
 }
 
 float TakeReading(){
